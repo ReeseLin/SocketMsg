@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SocketMsg</string>
+    <string name="commit">提交</string>
+</resources>
